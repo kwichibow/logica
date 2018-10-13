@@ -1,0 +1,16 @@
+newmtl Mask
+Kd 1.0 1.0 1.0
+d 1.0
+
+newmtl Ground
+Kd 1 1 1
+d 1
+
+newmtl GroundWall
+Kd 1 1 1
+d 1
+
+newmtl GroundWallFloor
+Kd 1 1 1
+d 1
+
